@@ -1,0 +1,7 @@
+C:\ProjectC#\Скворцов Дмитрий 2-2ИС\Chapter_4_Inheritance_SDA\Chapter_4_Inheritance_SDA\bin\Debug\Chapter_4_Inheritance_SDA.exe.config
+C:\ProjectC#\Скворцов Дмитрий 2-2ИС\Chapter_4_Inheritance_SDA\Chapter_4_Inheritance_SDA\bin\Debug\Chapter_4_Inheritance_SDA.exe
+C:\ProjectC#\Скворцов Дмитрий 2-2ИС\Chapter_4_Inheritance_SDA\Chapter_4_Inheritance_SDA\bin\Debug\Chapter_4_Inheritance_SDA.pdb
+C:\ProjectC#\Скворцов Дмитрий 2-2ИС\Chapter_4_Inheritance_SDA\Chapter_4_Inheritance_SDA\obj\Debug\Chapter_4_Inheritance_SDA.csproj.AssemblyReference.cache
+C:\ProjectC#\Скворцов Дмитрий 2-2ИС\Chapter_4_Inheritance_SDA\Chapter_4_Inheritance_SDA\obj\Debug\Chapter_4_Inheritance_SDA.csproj.CoreCompileInputs.cache
+C:\ProjectC#\Скворцов Дмитрий 2-2ИС\Chapter_4_Inheritance_SDA\Chapter_4_Inheritance_SDA\obj\Debug\Chapter_4_Inheritance_SDA.exe
+C:\ProjectC#\Скворцов Дмитрий 2-2ИС\Chapter_4_Inheritance_SDA\Chapter_4_Inheritance_SDA\obj\Debug\Chapter_4_Inheritance_SDA.pdb
