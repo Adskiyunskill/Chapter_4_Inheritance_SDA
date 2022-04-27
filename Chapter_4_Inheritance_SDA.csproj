@@ -43,9 +43,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="CL_AvtoCompany.cs" />
-    <Compile Include="CL_Company.cs" />
-    <Compile Include="Cl_InsCompany.cs" />
+    <Compile Include="Company.cs" />
+    <Compile Include="InsCompany.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
